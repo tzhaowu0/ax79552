@@ -380,7 +380,7 @@
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider":"https://raw.iqiq.io/liu673cn/box/main/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
-"proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3R6aGFvd3UwL2F4Nzk1NTIvbWFpbi9teXR2LnR4dAo="
 ]}]}],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
